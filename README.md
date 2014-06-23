@@ -1,24 +1,6 @@
 # Webserver
 
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'webserver'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install webserver
-
-## Usage
-
-TODO: Write usage instructions here
+A dead simple web server in ruby. Very much still working on it.
 
 ## Contributing
 
